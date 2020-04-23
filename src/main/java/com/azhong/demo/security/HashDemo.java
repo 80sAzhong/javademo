@@ -1,4 +1,4 @@
-package com.azhong.demo.security;
+package main.java.com.azhong.demo.security;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

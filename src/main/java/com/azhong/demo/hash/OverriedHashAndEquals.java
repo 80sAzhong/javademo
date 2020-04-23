@@ -1,4 +1,4 @@
-package com.azhong.demo.hash;
+package main.java.com.azhong.demo.hash;
 
 import java.util.HashMap;
 

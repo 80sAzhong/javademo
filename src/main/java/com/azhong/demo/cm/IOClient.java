@@ -1,4 +1,4 @@
-package com.azhong.demo.cm;
+package main.java.com.azhong.demo.cm;
 
 import java.net.Socket;
 import java.util.Date;

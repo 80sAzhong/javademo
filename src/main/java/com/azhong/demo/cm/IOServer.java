@@ -1,4 +1,4 @@
-package com.azhong.demo.cm;
+package main.java.com.azhong.demo.cm;
 
 import java.io.IOException;
 import java.io.InputStream;
